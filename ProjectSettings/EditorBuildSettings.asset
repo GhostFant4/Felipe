@@ -36,7 +36,7 @@ EditorBuildSettings:
     path: Assets/NewScene.unity
     guid: b79f1a961bb3b0240abc24b1e65aed00
   - enabled: 1
-    path: Assets/loop1.unity
+    path: Assets/Scenes/loop1.unity
     guid: 607f4fda8d7b2c441a99db5709b0cf6d
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
